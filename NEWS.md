@@ -1,4 +1,7 @@
-# metaconfoundr 0.1.1
+# metaconfoundr 0.1.2
+
+* Fixed bug in scales (#15)
+* Internal fixes for upcoming tidyr release (#16, @DavisVaughan )
 
 # metaconfoundr 0.1.0
 
